@@ -6,4 +6,4 @@ One thing that could have led to more presents than “Thank you” notes is tha
 
 2. Weather
 
-efficiency correctness, progress guarantee
+In order to simulate an hour of reading with 1 reading per minute, this program generates 60 readings and uses them accordingly. efficiency correctness, and progress guarantee. 
